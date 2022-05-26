@@ -5,6 +5,7 @@ version = "0.1.0"
 
 [deps]
 Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+Configurations = "5218b696-f38b-4ac9-8b61-a12ec717816d"
 DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
 GameZero = "9da27670-f782-11e9-1da1-f53579315bfe"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
