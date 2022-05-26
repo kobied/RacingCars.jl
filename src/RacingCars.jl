@@ -1,5 +1,8 @@
 module RacingCars
 
-# Write your package code here.
+using Reexport
+
+include("BuildTrack.jl")
+@reexport using .BuildTrack
 
 end
